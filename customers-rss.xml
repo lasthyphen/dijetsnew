@@ -1,0 +1,33 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Blog - Dijets</title>
+      <link>https://dijets.io</link>
+      <description>Latest news from Supabase</description>
+      <language>en</language>
+      <lastBuildDate>Wed, 06 Dec 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://dijets.io/rss.xml" rel="self" type="application/rss+xml"/>
+      <item>
+  <guid>https://dijets.io/services/horizon</guid>
+  <title>A Next-Gen browser that offers unmatched privacy &amp; access to the dataconomy.</title>
+  <link>https://dijets.io/services/horizon</link>
+  <description>The purpose-built Horizon desktop &amp; mobile browser is 5 times faster than Chrome &amp; allows its users to own and lease their data securely.</description>
+  <pubDate>Wed, 06 Dec 2023 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <guid>https://dijets.io/services/qowalts</guid>
+  <title>Secure, instant &amp; decentralised messenger that enables digital asset transfers.</title>
+  <link>https://dijets.io/services/qowalts</link>
+  <description>Dijets Services section is under maintenance. Please check back again soon.</description>
+  <pubDate>Mon, 06 Nov 2023 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <guid>https://dijets.io/services/dijetex</guid>
+  <title>Dijetex brings asset tokenisation to the general public.</title>
+  <link>https://dijets.io/services/dijetex</link>
+  <description>Dijets Services section is under maintenance. Please check back again soon.</description>
+  <pubDate>Thu, 04 May 2023 23:00:00 GMT</pubDate>
+</item>
+
+    </channel>
+  </rss>

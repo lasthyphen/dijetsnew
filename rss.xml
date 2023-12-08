@@ -1,0 +1,40 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Blog - Dijets</title>
+      <link>https://dijets.io</link>
+      <description>Latest news from Supabase</description>
+      <language>en</language>
+      <lastBuildDate>Sat, 18 Nov 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://dijets.io/rss.xml" rel="self" type="application/rss+xml"/>
+      <item>
+  <guid>https://dijets.io/blog/update</guid>
+  <title>Dev Update - 07 Dec 2023</title>
+  <link>https://dijets.io/blog/update</link>
+  <description>An update</description>
+  <pubDate>Sat, 18 Nov 2023 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <guid>https://dijets.io/blog/dynamic-and-complex-nfts</guid>
+  <title>Dynamic NFTs</title>
+  <link>https://dijets.io/blog/dynamic-and-complex-nfts</link>
+  <description>How heterogenous networks like Dijets can optimise static NFTs for dynamic &amp; complex usecases.</description>
+  <pubDate>Sat, 18 Nov 2023 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <guid>https://dijets.io/blog/dassets</guid>
+  <title>Asset Tokenisation</title>
+  <link>https://dijets.io/blog/dassets</link>
+  <description>Digitising ownership of RWAs (Real world assets)</description>
+  <pubDate>Sat, 18 Nov 2023 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <guid>https://dijets.io/blog/decentralised-llms</guid>
+  <title>Decentralised LLMs</title>
+  <link>https://dijets.io/blog/decentralised-llms</link>
+  <description>Method Arcs and Decentralised LLMs</description>
+  <pubDate>Sat, 04 Nov 2023 00:00:00 GMT</pubDate>
+</item>
+
+    </channel>
+  </rss>
