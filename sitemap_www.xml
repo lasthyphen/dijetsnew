@@ -67,12 +67,6 @@
   </url>
 
   <url>
-    <loc>https://supabase.com/database</loc>
-    <changefreq>weekly</changefreq>
-    <changefreq>0.5</changefreq>
-  </url>
-
-  <url>
     <loc>https://supabase.com/contact/enterprise</loc>
     <changefreq>weekly</changefreq>
     <changefreq>0.5</changefreq>
@@ -85,13 +79,19 @@
   </url>
 
   <url>
-    <loc>https://supabase.com/ecc-networks/[slug]</loc>
+    <loc>https://supabase.com/database</loc>
     <changefreq>weekly</changefreq>
     <changefreq>0.5</changefreq>
   </url>
 
   <url>
     <loc>https://supabase.com/djt/Djt</loc>
+    <changefreq>weekly</changefreq>
+    <changefreq>0.5</changefreq>
+  </url>
+
+  <url>
+    <loc>https://supabase.com/ecc-networks/[slug]</loc>
     <changefreq>weekly</changefreq>
     <changefreq>0.5</changefreq>
   </url>
@@ -139,13 +139,13 @@
   </url>
 
   <url>
-    <loc>https://supabase.com/ternary-chains/TernaryChains</loc>
+    <loc>https://supabase.com/services/[slug]</loc>
     <changefreq>weekly</changefreq>
     <changefreq>0.5</changefreq>
   </url>
 
   <url>
-    <loc>https://supabase.com/services/[slug]</loc>
+    <loc>https://supabase.com/ternary-chains/TernaryChains</loc>
     <changefreq>weekly</changefreq>
     <changefreq>0.5</changefreq>
   </url>
@@ -170,12 +170,6 @@
 
   <url>
     <loc>https://supabase.com/blog/dynamic-and-complex-nfts</loc>
-    <changefreq>weekly</changefreq>
-    <changefreq>0.5</changefreq>
-  </url>
-
-  <url>
-    <loc>https://supabase.com/blog/update</loc>
     <changefreq>weekly</changefreq>
     <changefreq>0.5</changefreq>
   </url>
