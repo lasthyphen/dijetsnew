@@ -175,6 +175,12 @@
   </url>
 
   <url>
+    <loc>https://supabase.com/blog/welcome-to-dijets</loc>
+    <changefreq>weekly</changefreq>
+    <changefreq>0.5</changefreq>
+  </url>
+
+  <url>
     <loc>https://supabase.com/customers/berriai</loc>
     <changefreq>weekly</changefreq>
     <changefreq>0.5</changefreq>
