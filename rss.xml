@@ -5,9 +5,65 @@
       <link>https://dijets.io</link>
       <description>Latest news from Supabase</description>
       <language>en</language>
-      <lastBuildDate>Mon, 04 Dec 2023 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 14 Jan 2024 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://dijets.io/rss.xml" rel="self" type="application/rss+xml"/>
       <item>
+  <guid>https://dijets.io/blog/dassets</guid>
+  <title>Asset Tokenisation</title>
+  <link>https://dijets.io/blog/dassets</link>
+  <description>Digitising ownership of RWAs (Real world assets)</description>
+  <pubDate>Sun, 14 Jan 2024 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <guid>https://dijets.io/blog/dgc-piers</guid>
+  <title>Piers Hampton</title>
+  <link>https://dijets.io/blog/dgc-piers</link>
+  <description>Guiding efforts for identifying collaborative opportunities in blockchain space</description>
+  <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <guid>https://dijets.io/blog/dgc-peter</guid>
+  <title>Peter Robertson</title>
+  <link>https://dijets.io/blog/dgc-peter</link>
+  <description>Served as Director of Hampshire Chamber of Commerce &amp; chair of HAN Group</description>
+  <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <guid>https://dijets.io/blog/dgc-pawel</guid>
+  <title>Pawel Burdzy</title>
+  <link>https://dijets.io/blog/dgc-pawel</link>
+  <description>Growth strategist leveraging the dynamic intersection of cryptocurrencies &amp; payment processing</description>
+  <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <guid>https://dijets.io/blog/dgc-joe</guid>
+  <title>Joe Fitzgerald</title>
+  <link>https://dijets.io/blog/dgc-joe</link>
+  <description>Wealth of experience &amp; insights into the intricacies of payment processing &amp; security protocols</description>
+  <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <guid>https://dijets.io/blog/dgc-daniel</guid>
+  <title>Daniel Fitzhenry</title>
+  <link>https://dijets.io/blog/dgc-daniel</link>
+  <description>Serial Entrepreneur &amp; Politician leading initiatives for innovation in Blockchain technology</description>
+  <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <guid>https://dijets.io/blog/dgc-bassi</guid>
+  <title>Rashpal Bassi</title>
+  <link>https://dijets.io/blog/dgc-bassi</link>
+  <description>Pioneering efforts to bring Trustless systems to supply chains &amp; manufacturing</description>
+  <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <guid>https://dijets.io/blog/dgc-alisha</guid>
+  <title>Alisha Ramazannezhad</title>
+  <link>https://dijets.io/blog/dgc-alisha</link>
+  <description>Spearheading drives for digital innovation in Pharmaceuticals &amp; Healthcare industry</description>
+  <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+</item>
+<item>
   <guid>https://dijets.io/blog/welcome-to-dijets</guid>
   <title>Welcome to Dijets Inc.</title>
   <link>https://dijets.io/blog/welcome-to-dijets</link>
@@ -19,13 +75,6 @@
   <title>Dynamic NFTs</title>
   <link>https://dijets.io/blog/dynamic-and-complex-nfts</link>
   <description>How heterogenous networks like Dijets can optimise static NFTs for dynamic &amp; complex usecases.</description>
-  <pubDate>Sat, 18 Nov 2023 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <guid>https://dijets.io/blog/dassets</guid>
-  <title>Asset Tokenisation</title>
-  <link>https://dijets.io/blog/dassets</link>
-  <description>Digitising ownership of RWAs (Real world assets)</description>
   <pubDate>Sat, 18 Nov 2023 00:00:00 GMT</pubDate>
 </item>
 <item>
