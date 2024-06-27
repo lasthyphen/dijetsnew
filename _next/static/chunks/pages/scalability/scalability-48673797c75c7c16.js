@@ -1,1 +1,0 @@
-(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[9425],{79196:function(n,_,i){(window.__NEXT_P=window.__NEXT_P||[]).push(["/scalability/scalability",function(){return i(2639)}])}},function(n){n.O(0,[995,3285,7493,6950,7248,2639,9774,2888,179],(function(){return _=79196,n(n.s=_);var _}));var _=n.O();_N_E=_}]);
