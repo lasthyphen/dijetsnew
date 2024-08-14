@@ -2,8 +2,8 @@
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
       <title>Blog - Dijets</title>
-      <link>https://dijets.io</link>
-      <description>Latest news from Supabase</description>
+      <link>https://dijets.io/blog</link>
+      <description>Latest news from Dijets</description>
       <language>en</language>
       <lastBuildDate>Wed, 06 Dec 2023 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://dijets.io/rss.xml" rel="self" type="application/rss+xml"/>
