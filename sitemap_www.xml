@@ -61,13 +61,13 @@
   </url>
 
   <url>
-    <loc>https://supabase.com/contact/enterprise</loc>
+    <loc>https://supabase.com/blog/</loc>
     <changefreq>weekly</changefreq>
     <changefreq>0.5</changefreq>
   </url>
 
   <url>
-    <loc>https://supabase.com/contact/mfa</loc>
+    <loc>https://supabase.com/council/Council</loc>
     <changefreq>weekly</changefreq>
     <changefreq>0.5</changefreq>
   </url>
@@ -79,7 +79,13 @@
   </url>
 
   <url>
-    <loc>https://supabase.com/council/Council</loc>
+    <loc>https://supabase.com/contact/enterprise</loc>
+    <changefreq>weekly</changefreq>
+    <changefreq>0.5</changefreq>
+  </url>
+
+  <url>
+    <loc>https://supabase.com/contact/mfa</loc>
     <changefreq>weekly</changefreq>
     <changefreq>0.5</changefreq>
   </url>
@@ -176,12 +182,6 @@
 
   <url>
     <loc>https://supabase.com/blog/dynamic-and-complex-nfts</loc>
-    <changefreq>weekly</changefreq>
-    <changefreq>0.5</changefreq>
-  </url>
-
-  <url>
-    <loc>https://supabase.com/blog/test</loc>
     <changefreq>weekly</changefreq>
     <changefreq>0.5</changefreq>
   </url>
