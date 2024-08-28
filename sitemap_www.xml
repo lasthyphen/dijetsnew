@@ -67,12 +67,6 @@
   </url>
 
   <url>
-    <loc>https://supabase.com/council/Council</loc>
-    <changefreq>weekly</changefreq>
-    <changefreq>0.5</changefreq>
-  </url>
-
-  <url>
     <loc>https://supabase.com/consensus-simulator/Auth</loc>
     <changefreq>weekly</changefreq>
     <changefreq>0.5</changefreq>
@@ -86,6 +80,12 @@
 
   <url>
     <loc>https://supabase.com/contact/mfa</loc>
+    <changefreq>weekly</changefreq>
+    <changefreq>0.5</changefreq>
+  </url>
+
+  <url>
+    <loc>https://supabase.com/council/Council</loc>
     <changefreq>weekly</changefreq>
     <changefreq>0.5</changefreq>
   </url>
