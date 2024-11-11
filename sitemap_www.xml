@@ -67,6 +67,12 @@
   </url>
 
   <url>
+    <loc>https://supabase.com/consensus-simulator/Auth</loc>
+    <changefreq>weekly</changefreq>
+    <changefreq>0.5</changefreq>
+  </url>
+
+  <url>
     <loc>https://supabase.com/contact/enterprise</loc>
     <changefreq>weekly</changefreq>
     <changefreq>0.5</changefreq>
@@ -74,12 +80,6 @@
 
   <url>
     <loc>https://supabase.com/contact/mfa</loc>
-    <changefreq>weekly</changefreq>
-    <changefreq>0.5</changefreq>
-  </url>
-
-  <url>
-    <loc>https://supabase.com/consensus-simulator/Auth</loc>
     <changefreq>weekly</changefreq>
     <changefreq>0.5</changefreq>
   </url>
@@ -127,13 +127,13 @@
   </url>
 
   <url>
-    <loc>https://supabase.com/methods/Methods</loc>
+    <loc>https://supabase.com/nextjs</loc>
     <changefreq>weekly</changefreq>
     <changefreq>0.5</changefreq>
   </url>
 
   <url>
-    <loc>https://supabase.com/nextjs</loc>
+    <loc>https://supabase.com/methods/Methods</loc>
     <changefreq>weekly</changefreq>
     <changefreq>0.5</changefreq>
   </url>
@@ -188,6 +188,12 @@
 
   <url>
     <loc>https://supabase.com/blog/welcome-to-dijets</loc>
+    <changefreq>weekly</changefreq>
+    <changefreq>0.5</changefreq>
+  </url>
+
+  <url>
+    <loc>https://supabase.com/blog/BOE</loc>
     <changefreq>weekly</changefreq>
     <changefreq>0.5</changefreq>
   </url>
