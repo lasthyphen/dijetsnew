@@ -1,1 +1,0 @@
-(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[5635],{96359:function(n,_,e){(window.__NEXT_P=window.__NEXT_P||[]).push(["/governance/Governance",function(){return e(61549)}])}},function(n){n.O(0,[995,1706,3952,5590,7493,6594,9818,1549,9774,2888,179],(function(){return _=96359,n(n.s=_);var _}));var _=n.O();_N_E=_}]);
