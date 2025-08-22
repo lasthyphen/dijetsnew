@@ -163,13 +163,13 @@
   </url>
 
   <url>
-    <loc>https://dijets.io/services/[slug]</loc>
+    <loc>https://dijets.io/scalability/scalability</loc>
     <changefreq>weekly</changefreq>
     <changefreq>0.5</changefreq>
   </url>
 
   <url>
-    <loc>https://dijets.io/scalability/scalability</loc>
+    <loc>https://dijets.io/services/[slug]</loc>
     <changefreq>weekly</changefreq>
     <changefreq>0.5</changefreq>
   </url>
