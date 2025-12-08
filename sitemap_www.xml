@@ -79,12 +79,6 @@
   </url>
 
   <url>
-    <loc>https://dijets.io/consensus-simulator/Auth</loc>
-    <changefreq>weekly</changefreq>
-    <changefreq>0.5</changefreq>
-  </url>
-
-  <url>
     <loc>https://dijets.io/contact/enterprise</loc>
     <changefreq>weekly</changefreq>
     <changefreq>0.5</changefreq>
@@ -92,6 +86,12 @@
 
   <url>
     <loc>https://dijets.io/contact/mfa</loc>
+    <changefreq>weekly</changefreq>
+    <changefreq>0.5</changefreq>
+  </url>
+
+  <url>
+    <loc>https://dijets.io/consensus-simulator/Auth</loc>
     <changefreq>weekly</changefreq>
     <changefreq>0.5</changefreq>
   </url>
@@ -157,13 +157,13 @@
   </url>
 
   <url>
-    <loc>https://dijets.io/platform/Platform</loc>
+    <loc>https://dijets.io/scalability/scalability</loc>
     <changefreq>weekly</changefreq>
     <changefreq>0.5</changefreq>
   </url>
 
   <url>
-    <loc>https://dijets.io/scalability/scalability</loc>
+    <loc>https://dijets.io/platform/Platform</loc>
     <changefreq>weekly</changefreq>
     <changefreq>0.5</changefreq>
   </url>

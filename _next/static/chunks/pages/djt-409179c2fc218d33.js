@@ -1,1 +1,0 @@
-(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[7839],{84192:function(n,u,t){(window.__NEXT_P=window.__NEXT_P||[]).push(["/djt",function(){return t(33920)}])},33920:function(n,u,t){"use strict";t.r(u);var _=t(62277);u.default=_.default}},function(n){n.O(0,[995,1706,7493,7180,2277,9774,2888,179],(function(){return u=84192,n(n.s=u);var u}));var u=n.O();_N_E=u}]);
