@@ -85,6 +85,12 @@
   </url>
 
   <url>
+    <loc>https://dijets.io/council/Council</loc>
+    <changefreq>weekly</changefreq>
+    <changefreq>0.5</changefreq>
+  </url>
+
+  <url>
     <loc>https://dijets.io/consensus-simulator/Auth</loc>
     <changefreq>weekly</changefreq>
     <changefreq>0.5</changefreq>
@@ -98,12 +104,6 @@
 
   <url>
     <loc>https://dijets.io/contact/mfa</loc>
-    <changefreq>weekly</changefreq>
-    <changefreq>0.5</changefreq>
-  </url>
-
-  <url>
-    <loc>https://dijets.io/council/Council</loc>
     <changefreq>weekly</changefreq>
     <changefreq>0.5</changefreq>
   </url>
@@ -145,6 +145,12 @@
   </url>
 
   <url>
+    <loc>https://dijets.io/legal/dpa</loc>
+    <changefreq>weekly</changefreq>
+    <changefreq>0.5</changefreq>
+  </url>
+
+  <url>
     <loc>https://dijets.io/methods/Methods</loc>
     <changefreq>weekly</changefreq>
     <changefreq>0.5</changefreq>
@@ -152,12 +158,6 @@
 
   <url>
     <loc>https://dijets.io/nextjs</loc>
-    <changefreq>weekly</changefreq>
-    <changefreq>0.5</changefreq>
-  </url>
-
-  <url>
-    <loc>https://dijets.io/legal/dpa</loc>
     <changefreq>weekly</changefreq>
     <changefreq>0.5</changefreq>
   </url>
@@ -181,13 +181,13 @@
   </url>
 
   <url>
-    <loc>https://dijets.io/vector/Vector</loc>
+    <loc>https://dijets.io/ternary-chains/TernaryChains</loc>
     <changefreq>weekly</changefreq>
     <changefreq>0.5</changefreq>
   </url>
 
   <url>
-    <loc>https://dijets.io/ternary-chains/TernaryChains</loc>
+    <loc>https://dijets.io/vector/Vector</loc>
     <changefreq>weekly</changefreq>
     <changefreq>0.5</changefreq>
   </url>
